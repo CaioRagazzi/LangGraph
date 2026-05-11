@@ -1,0 +1,8 @@
+Your Conversation Log:
+You: Hellooooooo
+AI: Helloooo! 👋 How can I help you today?
+
+You: whats my name?
+AI: I don’t know your name yet—I only know what you’ve told me in this chat. What name should I use?
+
+End of Conversation
